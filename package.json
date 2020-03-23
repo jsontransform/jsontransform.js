@@ -11,9 +11,12 @@
   },
   "author": "Julian Fleischer <scravy@gmail.com>",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.2",
+    "minimist": ">=1.2.2"
+  },
+  "dependencies": {
     "nodash": "^0.12.0"
   }
 }
